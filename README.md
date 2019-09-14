@@ -1,1 +1,1 @@
-# spirulinazur_test using jekyll
+# Creating a static website using jekyll
