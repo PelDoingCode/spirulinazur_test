@@ -39,7 +39,9 @@ body  {
   justify-content: space-between;
 }
 
-
+.footer-a {
+  padding-top: 16%;
+}
 
 
 /*for big screen */
