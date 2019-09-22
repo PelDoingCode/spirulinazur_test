@@ -73,6 +73,17 @@ body  {
   // code for footer
   */
 
+  .insta-logo {
+    height: 75px; width: 75px;
+    margin-top: 5%;
+  }
+
+  .site-logo-b {
+    height: 46px; width: 50px;
+  }
+  .site-logo-a {
+    border-radius: 8px; border: 1.5px solid white;
+  }
 
 
   /*code for the content */
@@ -119,7 +130,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 22%;
+    height: 16%;
     left: 0;
 
     /* Colors/White */
@@ -138,11 +149,12 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 20%;
-    height: 22%;
+    width: 30%;
+    height: 16%;
     left: 43%;
 
     background: #060F39;
+    border: 1.5px solid white;
     border-radius: 8px;
   }
 
@@ -152,6 +164,7 @@ body  {
     color: white;
     font-weight: 500;
     font-size: 20px;
+    margin-top: 21.9px;
 
     letter-spacing: 2px;
   }
@@ -232,9 +245,8 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 11%;
+    height: 9%;
     left: 0;
-
     /* Colors/White */
 
     background: #FCFCFC;
@@ -243,7 +255,6 @@ body  {
     border: 1.5px solid #060F39;
     box-sizing: border-box;
     border-radius: 8px;
-
   }
 
 
@@ -251,10 +262,11 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 20%;
-    height: 11%;
+    width: 26%;
+    height: 9%;
     left: 43%;
 
+    border: 1.5px solid white;
     background: #060F39;
     border-radius: 15px;
   }
@@ -266,10 +278,25 @@ body  {
     font-weight: 450;
     font-size: 15px;
 
-    margin-top: -0.9px;
+    margin-top: 4.4px;
 
     letter-spacing: 2px;
   }
+
+
+  .insta-logo {
+    height: 62px; width: 62px;
+    margin-top:8.4%;
+  }
+
+  .site-logo-b {
+    height: 33px; width: 40px;
+  }
+  .site-logo-a {
+    border-radius: 8px; border: 1.5px solid white;
+  }
+
+
 
 /*  .form-chance {
     display: flex;
@@ -345,7 +372,7 @@ body  {
 
   input[placeholder] {
     color: #29AAA7;
-    font-size: 90%;
+    font-size: 80%;
     /*text-align: center;*/
     padding: 0.8%;
   }
@@ -355,7 +382,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 20%;
+    height: 10%;
     left: 0;
 
     /* Colors/White */
@@ -374,10 +401,11 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 20%;
-    height: 20%;
+    width: 29%;
+    height: 10%;
     left: 43%;
 
+    border: 1.5px solid white;
     background: #060F39;
     border-radius: 8px;
   }
@@ -390,7 +418,21 @@ body  {
     font-size: 10px;
   /*  line-height: 20px;*/
     letter-spacing: 1px;
-    margin-top: 1px;
+    margin-top: 6.8px;
+
+  }
+
+
+  .insta-logo {
+    height: 62px; width: 62px;
+    margin-top: 4%;
+  }
+
+  .site-logo-b {
+    height: 33px; width: 40px;
+  }
+  .site-logo-a {
+    border-radius: 8px; border: 1.5px solid white;
   }
 
 }
@@ -479,7 +521,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 22%;
+    height: 12%;
     left: 0;
 
     /* Colors/White */
@@ -498,11 +540,13 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 20%;
-    height: 22%;
+    width: 26%;
+    height: 12%;
     left: 43%;
 
     background: #060F39;
+    border: 1px solid white;
+
     border-radius: 7px;
   }
 
@@ -514,7 +558,19 @@ body  {
     font-size: 7.3px;
   /*  line-height: 20px;*/
     letter-spacing: 0.5px;
-    margin-top: 1px;
+    margin-top: 6px;
+  }
+
+  .insta-logo {
+    height: 50px; width: 50px;
+    margin-top: 8%;
+  }
+
+  .site-logo-b {
+    height: 34px; width: 34px;
+  }
+  .site-logo-a {
+    border-radius: 8px; border: 1.0px solid white;
   }
 
 }
@@ -589,7 +645,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 20%;
+    height: 14%;
     left: 0;
 
     /* Colors/White */
@@ -608,11 +664,13 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 20%;
-    height:20%;
+    width: 26%;
+    height:14%;
     left: 43%;
 
     background: #060F39;
+    border: 0.75px solid white;
+
     border-radius: 6px;
   }
 
@@ -625,7 +683,19 @@ body  {
 
   /*  line-height: 20px;*/
     letter-spacing: 0.3px;
-    margin-top: 0.2px;
+    margin-top: 5.6px;
+  }
+
+  .insta-logo {
+    height: 45px; width: 45px;
+    margin-top: 9%;
+  }
+
+  .site-logo-b {
+    height: 24px; width: 30px;
+  }
+  .site-logo-a {
+    border-radius: 8px; border: 1.0px solid white;
   }
 
 
@@ -701,7 +771,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 45%;
-    height: 33%;
+    height: 18%;
     left: 0;
 
     /* Colors/White */
@@ -720,12 +790,14 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 35%;
-    height: 33%;
+    width: 46%;
+    height: 18%;
     left: 48%;
 
     background: #060F39;
-    border-radius: 13px;
+    border: 0.75px solid white;
+
+    border-radius: 10px;
   }
 
 
@@ -737,7 +809,20 @@ body  {
 
   /*  line-height: 20px;*/
     letter-spacing: 0.3px;
-    margin-top: 0.2px;
+    margin-top: 5.6px;
+  }
+
+  .insta-logo {
+    height: 30px; width: 30px;
+    margin-top: 12%;
+  }
+
+  .site-logo-b {
+    height: 12px; width: 18px;
+  }
+  .site-logo-a {
+    border: 1.0px solid white;
+    border-radius: 4px;
   }
 
 
