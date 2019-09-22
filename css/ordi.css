@@ -1,0 +1,25 @@
+/*
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media screen and (min-width: 1000px) {
+  body {
+    color: red;
+    background-color: red;
+  }
+
+}
+
+/*
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+@media screen and (max-width: 1000px) {
+
+  body {
+    color: green;
+    background-color: green;
+  }
+
+}

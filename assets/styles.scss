@@ -1,0 +1,39 @@
+// ---
+// ---
+// @import 'egg.scss';
+
+// // error to load when adding a new file to the jekyll boiler plate
+
+//  Conversion error: Jekyll::Converters::Scss encountered an error while converting 'assets/styles.scss':
+//                     File to import not found or unreadable: _form. Load path: /Users/pel_btc_coding/code/PelDoingCode/spirulinazur/_sass on line 4
+// bundler: failed to load command: jekyll (/Users/pel_btc_coding/.rbenv/versions/2.6.3/bin/jekyll)
+
+
+body {
+  background-color: #29AAA7;
+}
+
+
+
+// -----------------
+// code for header
+
+#header {
+  background: #29AAA7;
+  color: black;
+  font-weight: blod;
+  margin-bottom: 2*$space;
+  text-align: right;
+
+}
+
+// .banner-links {
+//   margin-top: 3%;
+// }
+
+//--------------
+// code for footer
+
+
+
+
