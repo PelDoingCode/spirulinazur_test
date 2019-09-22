@@ -152,7 +152,6 @@ body  {
     color: white;
     font-weight: 500;
     font-size: 20px;
-    margin-top: 3.4px;
 
     letter-spacing: 2px;
   }
@@ -233,7 +232,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 18%;
+    height: 11%;
     left: 0;
 
     /* Colors/White */
@@ -253,7 +252,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 20%;
-    height: 18%;
+    height: 11%;
     left: 43%;
 
     background: #060F39;
