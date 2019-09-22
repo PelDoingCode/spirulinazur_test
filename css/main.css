@@ -141,7 +141,7 @@ body  {
     left: 43%;
 
     background: #060F39;
-    border-radius: 15px;
+    border-radius: 8px;
   }
 
 
@@ -316,7 +316,7 @@ body  {
     position: absolute;
   /*  width: 852px;
     height: 160px;*/
-    left: 8%;
+    left: 15%;
     top: 100%;
     margin-top: 7%;
   }
@@ -354,7 +354,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 18%;
+    height: 20%;
     left: 0;
 
     /* Colors/White */
@@ -374,11 +374,11 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 20%;
-    height: 18%;
+    height: 20%;
     left: 43%;
 
     background: #060F39;
-    border-radius: 15px;
+    border-radius: 8px;
   }
 
 
@@ -478,7 +478,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 15%;
+    height: 22%;
     left: 0;
 
     /* Colors/White */
@@ -498,11 +498,11 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 20%;
-    height: 15%;
+    height: 22%;
     left: 43%;
 
     background: #060F39;
-    border-radius: 15px;
+    border-radius: 7px;
   }
 
 
@@ -588,7 +588,7 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 40%;
-    height: 15%;
+    height: 20%;
     left: 0;
 
     /* Colors/White */
@@ -608,11 +608,11 @@ body  {
     margin-top: -2%;
     position: absolute;
     width: 20%;
-    height: 15%;
+    height:20%;
     left: 43%;
 
     background: #060F39;
-    border-radius: 13px;
+    border-radius: 6px;
   }
 
 
@@ -690,7 +690,7 @@ body  {
 
   input[placeholder] {
     color: #29AAA7;
-    font-size: 2%;
+    font-size: 3.9px;
     /*text-align: center;*/
     padding: 0.8%;
   }
@@ -699,8 +699,8 @@ body  {
   .form-input {
     margin-top: -2%;
     position: absolute;
-    width: 40%;
-    height: 15%;
+    width: 45%;
+    height: 33%;
     left: 0;
 
     /* Colors/White */
@@ -719,9 +719,9 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 20%;
-    height: 15%;
-    left: 43%;
+    width: 35%;
+    height: 33%;
+    left: 48%;
 
     background: #060F39;
     border-radius: 13px;
