@@ -641,6 +641,7 @@ body  {
   }
 
 
+
   .form-input {
     margin-top: -2%;
     position: absolute;
@@ -664,7 +665,7 @@ body  {
   .form-button {
     margin-top: -2%;
     position: absolute;
-    width: 26%;
+    width: 29%;
     height:14%;
     left: 43%;
 
