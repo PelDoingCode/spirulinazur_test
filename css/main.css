@@ -166,7 +166,7 @@ body  {
   .share-buttons p {
     font-family: Lato;
     font-style: normal;
-    font-size: 26px;
+    font-size: 30px;
   }
 
   .form-button h4 {
@@ -289,7 +289,8 @@ body  {
   .share-buttons p {
     font-family: Lato;
     font-style: normal;
-    font-size: 22px;
+    font-size: 25px;
+
   }
 
 
@@ -399,7 +400,7 @@ body  {
 
 
   .form-input {
-    margin-top: -2%;
+    margin-top: 2%;
     position: absolute;
     width: 40%;
     height: 10%;
@@ -419,7 +420,7 @@ body  {
 
 
   .form-button {
-    margin-top: -2%;
+    margin-top: 2%;
     position: absolute;
     width: 29%;
     height: 10%;
@@ -430,6 +431,22 @@ body  {
     border-radius: 8px;
   }
 
+  .share-buttons {
+    margin-top: 23%;
+    width: 100%;
+
+  }
+
+  .share-buttons p {
+    font-family: Lato;
+    font-style: normal;
+    font-size: 15px;
+
+  }
+
+  .text-share {
+    white-space: nowrap;
+  }
 
 
   .form-button h4 {
@@ -538,7 +555,7 @@ body  {
 
 
   .form-input {
-    margin-top: -2%;
+    margin-top: 3.5%;
     position: absolute;
     width: 40%;
     height: 12%;
@@ -558,7 +575,7 @@ body  {
 
 
   .form-button {
-    margin-top: -2%;
+    margin-top: 3.5%;
     position: absolute;
     width: 26%;
     height: 12%;
@@ -570,7 +587,19 @@ body  {
     border-radius: 7px;
   }
 
+  .share-buttons {
+    margin-top: 23.7%;
 
+  }
+
+  .share-buttons p {
+    font-family: Lato;
+    font-style: normal;
+    font-size: 12px;
+  }
+  .text-share {
+    white-space: nowrap;
+  }
 
   .form-button h4 {
     color: white;
@@ -663,7 +692,7 @@ body  {
 
 
   .form-input {
-    margin-top: -2%;
+    margin-top: 3.3%;
     position: absolute;
     width: 40%;
     height: 14%;
@@ -683,7 +712,7 @@ body  {
 
 
   .form-button {
-    margin-top: -2%;
+    margin-top: 3.3%;
     position: absolute;
     width: 29%;
     height:14%;
@@ -695,7 +724,16 @@ body  {
     border-radius: 6px;
   }
 
+  .share-buttons {
+    margin-top: 30%;
 
+  }
+
+  .share-buttons p {
+    font-family: Lato;
+    font-style: normal;
+    font-size: 9px;
+  }
 
   .form-button h4 {
     color: white;
@@ -821,6 +859,16 @@ body  {
     border-radius: 10px;
   }
 
+  .share-buttons {
+    margin-top: 35%;
+
+  }
+
+  .share-buttons p {
+    font-family: Lato;
+    font-style: normal;
+    font-size: 10px;
+  }
 
 
   .form-button h4 {
