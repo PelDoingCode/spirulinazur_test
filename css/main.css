@@ -120,7 +120,7 @@ body  {
 
 
   input[placeholder] {
-    color: #060F39;
+    color: #29AAA7;
     font-size: 175%;
     /*text-align: center;*/
     padding: 0.8%;
@@ -256,7 +256,7 @@ body  {
 
 
   input[placeholder] {
-    color: #060F39;
+    color: #29AAA7;
     font-size: 130%;
     /*text-align: center;*/
     padding: 0.8%;
@@ -290,7 +290,7 @@ body  {
 
     border: 1.5px solid white;
     background: #060F39;
-    border-radius: 15px;
+    border-radius: 8px;
   }
 
   .share-buttons {
@@ -415,7 +415,7 @@ body  {
 
 
   input[placeholder] {
-    color: #060F39;
+    color: #29AAA7;
     font-size: 90%;
     /*text-align: center;*/
     padding: 0.8%;
@@ -582,7 +582,7 @@ body  {
 
 
   input[placeholder] {
-    color: #060F39;
+    color: #29AAA7;
     font-size: 72%;
     /*text-align: center;*/
     padding: 0.8%;
@@ -734,7 +734,7 @@ body  {
 
 
   input[placeholder] {
-    color: #060F39;
+    color: #29AAA7;
     font-size: 50%;
     /*text-align: center;*/
     padding: 0.8%;
@@ -880,7 +880,7 @@ body  {
 
 
   input[placeholder] {
-    color: #060F39;
+    color: #29AAA7;
     font-size: 6px;
     /*text-align: center;*/
     padding: 0.8%;
