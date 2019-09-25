@@ -422,7 +422,7 @@ body  {
     font-size: 135%;
     /*text-align: center;*/
     padding: 0.8%;
-    padding-left: 25%;
+    padding-left: 23%;
   }
 
 
@@ -448,7 +448,7 @@ body  {
 
 
   .form-button {
-    margin-top: 12%;
+    margin-top: 15%;
     position: absolute;
     width: 80%;
     height: 10%;
@@ -461,7 +461,7 @@ body  {
   }
 
   .share-buttons {
-    margin-top: 28%;
+    margin-top: 31%;
     width: 100%;
 
   }
@@ -525,14 +525,12 @@ body  {
 
 @media (min-width: 500px) and (max-width: 650px) {
 
-
-
-  body {
+/*  body {
     background-color: green;
-  }
+  }*/
 
   .banner-links {
-    margin-top: 3%;
+    margin-top: 8%;
   }
 
   .language-header {
@@ -559,18 +557,22 @@ body  {
     position: absolute;
   /*  width: 852px;
     height: 160px;*/
-    left: 15%;
+
     top: 100%;
     margin-top: 7%;
+    width: 90%;
+    left: 5%;
+    right: 5%;
   }
 
+
   .text-container h3 {
-    font-size: 140%;
+    font-size: 220%;
     color: #FCFCFC;
   }
 
   .text-container h4 {
-    font-size: 135%;
+    font-size: 190%;
     color: #060F39;
   }
 
@@ -587,18 +589,20 @@ body  {
 
   input[placeholder] {
     color: #060F39;
-    font-size: 90%;
+    font-size: 135%;
     /*text-align: center;*/
     padding: 0.8%;
+    padding-left: 19%;
   }
 
 
   .form-input {
     margin-top: 2%;
     position: absolute;
-    width: 40%;
+    width: 80%;
     height: 10%;
-    left: 0;
+    left: 10%;
+    right: 10%;
 
     /* Colors/White */
 
@@ -611,14 +615,13 @@ body  {
 
   }
 
-
-
   .form-button {
-    margin-top: 12%;
+    margin-top: 16.5%;
     position: absolute;
-    width: 40%;
+    width: 80%;
     height: 10%;
-    left: 0;
+    left: 10%;
+    right: 10%;
 
     border: 1.5px solid white;
     background: #060F39;
@@ -626,7 +629,7 @@ body  {
   }
 
   .share-buttons {
-    margin-top: 23%;
+    margin-top: 38%;
     width: 100%;
 
   }
@@ -643,13 +646,16 @@ body  {
   }
 
   #emoji-a {
-    font-size: 30px;
-    width: 25%;
+    font-size: 25px;
     height: 10%;
+    width: 50%;
+    padding-left: 39%;
   }
 
   #logo-share {
-    width: 17%; height: 9%;
+    width: 32%;
+    height: 19.9%;
+
   }
 
 
@@ -661,7 +667,7 @@ body  {
     font-size: 14px;
   /*  line-height: 20px;*/
     letter-spacing: 1px;
-    margin-top: 8.5px;
+    margin-top: 14.5px;
 
   }
 
@@ -677,7 +683,6 @@ body  {
   .site-logo-a {
     border-radius: 8px; border: 1.5px solid white;
   }
-
 }
 
 
