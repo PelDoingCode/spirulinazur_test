@@ -1082,6 +1082,12 @@ body  {
   // code for footer
   */
 
+  .logo-banner {
+    width: 65%;
+    height: 65%;
+    margin-left: 5%;
+  }
+
 
 
   /*code for the content */
