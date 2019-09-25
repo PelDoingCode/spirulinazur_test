@@ -64,6 +64,12 @@ body  {
   }
 
 
+  .logo-banner {
+    width: 26%;
+    height: 26%;
+    margin-left: 15%;
+  }
+
   .language-header  a {
     color: white;
     text-decoration: none;
@@ -198,7 +204,7 @@ body  {
 @media (min-width: 800px) and (max-width: 1000px) {
 
   .banner-links {
-    margin-top: 3%;
+    margin-top: 5%;
   }
 
   .language-header {
@@ -206,6 +212,13 @@ body  {
     margin-top: -4%;
   }
 
+
+
+  .logo-banner {
+    width: 26%;
+    height: 26%;
+    margin-left: 15%;
+  }
 
   .language-header  a {
     color: white;
@@ -369,6 +382,13 @@ body  {
   }
 
 
+  .logo-banner {
+    width: 38%;
+    height: 38%;
+    margin-left: 15%;
+  }
+
+
   .language-header  a {
     color: white;
     text-decoration: none;
@@ -528,17 +548,23 @@ body  {
 
 @media (min-width: 500px) and (max-width: 650px) {
 
-/*  body {
-    background-color: green;
-  }*/
+
 
   .banner-links {
-    margin-top: 8%;
+    margin-top: 10%;
   }
 
   .language-header {
     margin-left: 80%;
     margin-top: -4%;
+  }
+
+
+
+  .logo-banner {
+    width: 44%;
+    height: 44%;
+    margin-left: 5%;
   }
 
 
@@ -713,6 +739,12 @@ body  {
     margin-top: -4%;
   }
 
+  .logo-banner {
+    width: 50%;
+    height: 50%;
+    margin-left: 5%;
+  }
+
 
   .language-header  a {
     color: white;
@@ -883,6 +915,13 @@ body  {
   /*//--------------
   // code for footer
   */
+
+  .logo-banner {
+    width: 55%;
+    height: 55%;
+    margin-left: 5%;
+  }
+
 
 
 
