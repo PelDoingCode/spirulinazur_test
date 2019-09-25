@@ -5,7 +5,7 @@ layout: default
 
 <div class="text-color">
 
-  <h3> Spiruline,  la superfood pour booster votre <br> énergie toute la journée.</h3>
+  <h3> Spiruline,  la super aliment pour booster votre <br> énergie toute la journée.</h3>
 
   <h4> Laissez-nous prendre soin de vous. </h4>
 
