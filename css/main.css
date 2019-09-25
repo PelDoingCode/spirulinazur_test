@@ -349,11 +349,13 @@ body  {
 /*for medium screen*/
 
 
-@media (min-width: 500px) and (max-width: 650px) {
+@media (min-width: 650px) and (max-width: 800px) {
 
-  .body {
-    background-color: red;
+  body {
+    background-color: green;
   }
+
+
   .banner-links {
     margin-top: 3%;
   }
@@ -382,9 +384,15 @@ body  {
     position: absolute;
   /*  width: 852px;
     height: 160px;*/
-    left: 15%;
+
     top: 100%;
     margin-top: 7%;
+
+  }
+
+  .container-wrapper {
+    display: flex;
+    justify-content: center;
   }
 
   .text-container h3 {
