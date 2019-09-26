@@ -15,14 +15,12 @@ html {
   font-style: normal;
 }
 
-
 body  {
   position: relative;
   background-color: #29AAA7;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
 }
-
 
 .container-wrapper {
   display: flex;
@@ -44,7 +42,6 @@ body  {
   padding-top: 16%;
 }
 
-
 /*for big screen */
 /*for big screen */
 /*for big screen */
@@ -65,8 +62,8 @@ body  {
 
 
   .logo-banner {
-    width: 26%;
-    height: 26%;
+    width: 24%;
+    height: 24%;
     margin-left: 15%;
   }
 
@@ -105,12 +102,12 @@ body  {
   }
 
   .text-container h3 {
-    font-size: 260%;
+    font-size: 240%;
     color: #FCFCFC;
   }
 
   .text-container h4 {
-    font-size: 225%;
+    font-size: 215%;
     color: #060F39;
   }
 
@@ -317,8 +314,7 @@ body  {
   #emoji-a {
     width: 30%;
     height: 10%;
-    font-size: 50px;
-
+    font-size: 50px
   }
 
   #logo-share {
@@ -394,14 +390,6 @@ body  {
     text-decoration: none;
     font-size: 18px;
   }
-
-  /*//--------------
-  // code for footer
-  */
-
-
-
-  /*code for the content */
 
   .text-container {
     position: absolute;
@@ -512,9 +500,6 @@ body  {
     padding-left: 7%;
 
   }
-
-
-
 
   .form-button h4 {
     color: white;
@@ -678,7 +663,7 @@ body  {
     font-size: 34px;
     height: 10%;
     width: 50%;
-    padding-left: 35%;
+    padding-left: 30%;
   }
 
   #logo-share {
@@ -856,7 +841,7 @@ body  {
     font-size: 35px;
     height: 10%;
     width: 70%;
-    padding-left: 30%;
+    padding-left: 25%;
   }
 
   #logo-share {
@@ -865,9 +850,6 @@ body  {
     padding-left: 10%;
 
   }
-
-
-
 
   .form-button h4 {
     color: white;
@@ -921,9 +903,6 @@ body  {
     height: 55%;
     margin-left: 5%;
   }
-
-
-
 
   /*code for the content */
 
