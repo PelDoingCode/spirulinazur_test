@@ -1,6 +1,9 @@
 ---
 title: Spirulinazur
 layout: default
+header-img: "assets/logo_figma.png"
+subtitle:   "Parce que la nature a déjà tout prévu."
+
 ---
 
 <div class="text-color">
