@@ -1,4 +1,6 @@
-# Creating a static landing page using Jekyll
+# Static landing page using Jekyll :
+
+### Project aim : promote the company of a client
 
 
 #### command to run in local host : default port 4000
