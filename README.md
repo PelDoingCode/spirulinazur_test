@@ -3,8 +3,14 @@
 ### Project aim : promote the company of a client
 
 
-#### command to run in local host : default port 4000
+#### Command to run in local host : default port 4000
 
+##### If you want to recompile/rebuild everything : 
 ```
   bundle exec jekyll serve
 ```
+
+##### Just compile your code :
+```
+  jekyll serve
+
