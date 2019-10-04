@@ -13,4 +13,7 @@
 ##### Just compile your code :
 ```
   jekyll serve
+```
 
+Way to access the result of the code : 
+    www.spirulinazur.com 
