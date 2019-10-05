@@ -2,6 +2,14 @@
 
 ### Project aim : promote the company of a client
 
+  Photo of the landing page : 
+
+<p align="center">  
+  <img src="spirulinazur.png" alt="drawing" width="350" align="center"/>
+</p>
+
+  Website of the landing page : 
+    www.spirulinazur.com 
 
 #### Command to run in local host : default port 4000
 
@@ -15,5 +23,4 @@
   jekyll serve
 ```
 
-Way to access the result of the code : 
-    www.spirulinazur.com 
+
