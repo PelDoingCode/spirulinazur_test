@@ -8,8 +8,11 @@
   <img src="spirulinazur.png" alt="drawing" width="350" align="center"/>
 </p>
 
-  Website of the landing page : 
+<p align="center">  
+    Website of the landing page : 
     www.spirulinazur.com 
+</p>
+
 
 #### Command to run in local host : default port 4000
 
